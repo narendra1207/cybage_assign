@@ -1,0 +1,148 @@
+
+ .main_container{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    background-repeat: no-repeat;
+    z-index: -1;
+    opacity: 0.3;
+    background-image: url("https://weblearnbd.net/tphtml/medixare/assets/img/hero/header-bg-1.jpg");
+    margin: 0px;
+  }
+
+
+.content{
+  
+    font-size: 40px;
+    color: black;
+    margin: 200px 74px ;
+  }
+ 
+  .btn-information{
+
+border: 2px solid grey;
+border-radius: 9px;
+    font-size: 20px;
+    background-color: rgb(228, 169, 42);
+    color: white;
+    margin: 30px 0px;
+    width: 300px;
+    height: 50px;  
+  }
+
+  .btn-information:hover{
+    background-color: chocolate;
+    cursor: pointer;
+    
+  }
+
+  .secondbg{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    background-image: url("https://weblearnbd.net/tphtml/medixare/assets/img/about/about-1.jpg");
+  }
+ 
+  .careCard{
+    font-size: 60px;
+    margin: 10px;
+    margin: 0px 0px 30px 0px;
+    display:inline-block;
+  }
+  .subCareCard{
+   color:black;
+   font-size: 20px;
+ 
+   margin:70px;
+  }
+
+  .box1{
+    float: left;
+    margin-top: 50px;
+  width: 550px;
+height: 500px;
+border: 2px solid grey;
+background-color: rgb(230, 28, 45);
+opacity: .7;
+
+  }
+  .box2{
+    float: left;
+    margin-top: 50px;
+    margin-left: 0px;
+  width: 550px;
+height: 500px;
+border: 2px solid grey;
+background-color: rgb(242, 176, 43);
+opacity: .7;
+
+  }
+
+ 
+  .boxcontent{
+   position: absolute;
+    font-size: 50px;
+  
+    color: white;
+    text-align: center;
+    margin: 150px 10px 10px 100px;
+  }
+
+  .boxSubcontent{
+    position: absolute;
+    font-size: 30px;
+  
+    color: white;
+    text-align: center;
+    margin: 200px 10px 10px 100px;
+  }
+  .pid{
+    position: absolute;
+    width: 200px;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    margin: 250px 10px 10px 100px;
+    text-align: justify;
+  }
+  .boxbtn{
+    position: absolute;
+ 
+    border: 2px solid grey;
+    border-radius: 9px;
+        font-size: 20px;
+        background-color: white;
+        color: black;
+        font-style: normal;
+        margin: 350px 10px 10px 100px;
+        width: 250px;
+        height: 50px;
+        
+  }
+  .boxbtn:hover{
+
+    background-color: black;
+    color:white;
+  }
+  .boxbtn a {
+    text-decoration: none; 
+    text-transform: none;
+    color: red;
+  }
+  
+
+  #serviceprovider{
+    font-size: 20px;
+  }
+  #serviceprovider a{
+    font-size: 18px;
+    text-decoration: none;
+    text-transform: none;
+    color: red;
+  }
+  #serviceprovider a:hover{
+    color:rgb(255, 123, 0);
+  }
